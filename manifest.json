@@ -1,6 +1,6 @@
 {
-  "short_name": "Oven Off",
-  "name": "Oven Off",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
