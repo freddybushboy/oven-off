@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/oven-off/static/css/main.03a8b703.css",
-    "main.js": "/oven-off/static/js/main.5c7cefbe.js",
+    "main.js": "/oven-off/static/js/main.70fbb39c.js",
     "static/js/787.787200c9.chunk.js": "/oven-off/static/js/787.787200c9.chunk.js",
     "index.html": "/oven-off/index.html",
     "main.03a8b703.css.map": "/oven-off/static/css/main.03a8b703.css.map",
-    "main.5c7cefbe.js.map": "/oven-off/static/js/main.5c7cefbe.js.map",
+    "main.70fbb39c.js.map": "/oven-off/static/js/main.70fbb39c.js.map",
     "787.787200c9.chunk.js.map": "/oven-off/static/js/787.787200c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03a8b703.css",
-    "static/js/main.5c7cefbe.js"
+    "static/js/main.70fbb39c.js"
   ]
 }
